@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wj.skyamg-front/static/css/main.67c1bae1.css",
-    "main.js": "/wj.skyamg-front/static/js/main.be8020f2.js",
+    "main.js": "/wj.skyamg-front/static/js/main.586d6f8f.js",
     "static/js/787.7df8f71c.chunk.js": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/차트작성.png": "/wj.skyamg-front/static/media/차트작성.5c89bdd20884eb2eb8b5.png",
     "static/media/3-1.jpg": "/wj.skyamg-front/static/media/3-1.f889ec2c97519d9416c1.jpg",
@@ -35,13 +35,13 @@
     "static/media/DSC06699.jpg": "/wj.skyamg-front/static/media/DSC06699.0d4419eb5a978d918ce1.jpg",
     "static/media/263A0102.png": "/wj.skyamg-front/static/media/263A0102.4ca0ee573426d503c971.png",
     "static/media/portfolio_080228.jpg": "/wj.skyamg-front/static/media/portfolio_080228.c1a565e3faa4692a5685.jpg",
-    "static/media/김민석.png": "/wj.skyamg-front/static/media/김민석.7501550616818ad55502.png",
     "static/media/3.png": "/wj.skyamg-front/static/media/3.7959dc107b95003d2a71.png",
     "static/media/정연후.png": "/wj.skyamg-front/static/media/정연후.6fe020987c9f8c78e6d9.png",
     "static/media/마취장비.png": "/wj.skyamg-front/static/media/마취장비.7f1c6329bf0fb9f2ef1e.png",
     "static/media/01.png": "/wj.skyamg-front/static/media/01.15b86ce2b7d15c27f0ce.png",
     "static/media/KakaoTalk_Photo_2023-11-13-11-55-23.png": "/wj.skyamg-front/static/media/KakaoTalk_Photo_2023-11-13-11-55-23.c7ce1bb0ea222b1f99ca.png",
     "static/media/DSC06707.jpg": "/wj.skyamg-front/static/media/DSC06707.f308789f5bd0fd1afbb8.jpg",
+    "static/media/김민석.png": "/wj.skyamg-front/static/media/김민석.f371d19e4d6a714c789a.png",
     "static/media/portfolio_062119.jpg": "/wj.skyamg-front/static/media/portfolio_062119.cf14f09ec740eec8f2f1.jpg",
     "static/media/청진.png": "/wj.skyamg-front/static/media/청진.bddbefd260f5900dca80.png",
     "static/media/박길량.png": "/wj.skyamg-front/static/media/박길량.6020c8a08a33c13bfe90.png",
@@ -149,11 +149,11 @@
     "index.html": "/wj.skyamg-front/index.html",
     "static/media/slick.woff": "/wj.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.67c1bae1.css.map": "/wj.skyamg-front/static/css/main.67c1bae1.css.map",
-    "main.be8020f2.js.map": "/wj.skyamg-front/static/js/main.be8020f2.js.map",
+    "main.586d6f8f.js.map": "/wj.skyamg-front/static/js/main.586d6f8f.js.map",
     "787.7df8f71c.chunk.js.map": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67c1bae1.css",
-    "static/js/main.be8020f2.js"
+    "static/js/main.586d6f8f.js"
   ]
 }
