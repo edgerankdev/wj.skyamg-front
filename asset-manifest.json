@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wj.skyamg-front/static/css/main.67c1bae1.css",
-    "main.js": "/wj.skyamg-front/static/js/main.d1aa9fb7.js",
+    "main.js": "/wj.skyamg-front/static/js/main.be8020f2.js",
     "static/js/787.7df8f71c.chunk.js": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/차트작성.png": "/wj.skyamg-front/static/media/차트작성.5c89bdd20884eb2eb8b5.png",
     "static/media/3-1.jpg": "/wj.skyamg-front/static/media/3-1.f889ec2c97519d9416c1.jpg",
@@ -35,10 +35,10 @@
     "static/media/DSC06699.jpg": "/wj.skyamg-front/static/media/DSC06699.0d4419eb5a978d918ce1.jpg",
     "static/media/263A0102.png": "/wj.skyamg-front/static/media/263A0102.4ca0ee573426d503c971.png",
     "static/media/portfolio_080228.jpg": "/wj.skyamg-front/static/media/portfolio_080228.c1a565e3faa4692a5685.jpg",
+    "static/media/김민석.png": "/wj.skyamg-front/static/media/김민석.7501550616818ad55502.png",
     "static/media/3.png": "/wj.skyamg-front/static/media/3.7959dc107b95003d2a71.png",
     "static/media/정연후.png": "/wj.skyamg-front/static/media/정연후.6fe020987c9f8c78e6d9.png",
     "static/media/마취장비.png": "/wj.skyamg-front/static/media/마취장비.7f1c6329bf0fb9f2ef1e.png",
-    "static/media/김민석.png": "/wj.skyamg-front/static/media/김민석.72df0cef0577d29571f2.png",
     "static/media/01.png": "/wj.skyamg-front/static/media/01.15b86ce2b7d15c27f0ce.png",
     "static/media/KakaoTalk_Photo_2023-11-13-11-55-23.png": "/wj.skyamg-front/static/media/KakaoTalk_Photo_2023-11-13-11-55-23.c7ce1bb0ea222b1f99ca.png",
     "static/media/DSC06707.jpg": "/wj.skyamg-front/static/media/DSC06707.f308789f5bd0fd1afbb8.jpg",
@@ -49,10 +49,10 @@
     "static/media/4.png": "/wj.skyamg-front/static/media/4.eab254b00ec54e352e91.png",
     "static/media/doc_moonjongsun_desc2.png": "/wj.skyamg-front/static/media/doc_moonjongsun_desc2.5798e7e9021196a8b654.png",
     "static/media/항암후드.png": "/wj.skyamg-front/static/media/항암후드.c67b38fbe6fd88fdda79.png",
-    "static/media/신승인.png": "/wj.skyamg-front/static/media/신승인.54f41b6bd3777dfcecb6.png",
     "static/media/derimg_4.jpg": "/wj.skyamg-front/static/media/derimg_4.0057926baf75e3c330a5.jpg",
     "static/media/항암배너.png": "/wj.skyamg-front/static/media/항암배너.b893ac4d9f9c1569bf5b.png",
     "static/media/derimg_1.jpg": "/wj.skyamg-front/static/media/derimg_1.be6a3f0050d28103e387.jpg",
+    "static/media/신승인.png": "/wj.skyamg-front/static/media/신승인.c2ef3ad86c32233b3b51.png",
     "static/media/wonju_facility_slider10.jpg": "/wj.skyamg-front/static/media/wonju_facility_slider10.0b731f2e1bc80f15cad3.jpg",
     "static/media/bg_lami2.jpg": "/wj.skyamg-front/static/media/bg_lami2.b1d47638a74ff6b553b6.jpg",
     "static/media/phyimg_1.jpg": "/wj.skyamg-front/static/media/phyimg_1.a697a83b5de49d3fe178.jpg",
@@ -149,11 +149,11 @@
     "index.html": "/wj.skyamg-front/index.html",
     "static/media/slick.woff": "/wj.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.67c1bae1.css.map": "/wj.skyamg-front/static/css/main.67c1bae1.css.map",
-    "main.d1aa9fb7.js.map": "/wj.skyamg-front/static/js/main.d1aa9fb7.js.map",
+    "main.be8020f2.js.map": "/wj.skyamg-front/static/js/main.be8020f2.js.map",
     "787.7df8f71c.chunk.js.map": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67c1bae1.css",
-    "static/js/main.d1aa9fb7.js"
+    "static/js/main.be8020f2.js"
   ]
 }
