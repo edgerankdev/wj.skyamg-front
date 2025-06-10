@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wj.skyamg-front/static/css/main.67c1bae1.css",
-    "main.js": "/wj.skyamg-front/static/js/main.1c322732.js",
+    "main.js": "/wj.skyamg-front/static/js/main.87b6bd90.js",
     "static/js/787.7df8f71c.chunk.js": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/차트작성.png": "/wj.skyamg-front/static/media/차트작성.5c89bdd20884eb2eb8b5.png",
     "static/media/3-1.jpg": "/wj.skyamg-front/static/media/3-1.f889ec2c97519d9416c1.jpg",
@@ -9,8 +9,8 @@
     "static/media/대화.png": "/wj.skyamg-front/static/media/대화.eec696e295f872f3bffe.png",
     "static/media/입원실애기.png": "/wj.skyamg-front/static/media/입원실애기.0a8cfd7848296e2e6f58.png",
     "static/media/5-1.jpg": "/wj.skyamg-front/static/media/5-1.21f248b5624c43a42f98.jpg",
-    "static/media/bgVideo2025061001.mp4": "/wj.skyamg-front/static/media/bgVideo2025061001.229e102e6a6b637ffce4.mp4",
     "static/media/DSC07315.png": "/wj.skyamg-front/static/media/DSC07315.b0c991dcfc4f1df35879.png",
+    "static/media/bgVideo2025061001.mp4": "/wj.skyamg-front/static/media/bgVideo2025061001.b30c7f1d764df2798612.mp4",
     "static/media/veterinarian-examining-cute-dog-on-white-backgroun-2023-11-27-05-36-29-utc.jpg": "/wj.skyamg-front/static/media/veterinarian-examining-cute-dog-on-white-backgroun-2023-11-27-05-36-29-utc.2d2680e0276a021d1c21.jpg",
     "static/media/입원실.png": "/wj.skyamg-front/static/media/입원실.2afb96531a7ea0e55b64.png",
     "static/media/초음파.png": "/wj.skyamg-front/static/media/초음파.ba90d334322c12fcfb22.png",
@@ -150,11 +150,11 @@
     "index.html": "/wj.skyamg-front/index.html",
     "static/media/slick.woff": "/wj.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.67c1bae1.css.map": "/wj.skyamg-front/static/css/main.67c1bae1.css.map",
-    "main.1c322732.js.map": "/wj.skyamg-front/static/js/main.1c322732.js.map",
+    "main.87b6bd90.js.map": "/wj.skyamg-front/static/js/main.87b6bd90.js.map",
     "787.7df8f71c.chunk.js.map": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67c1bae1.css",
-    "static/js/main.1c322732.js"
+    "static/js/main.87b6bd90.js"
   ]
 }
