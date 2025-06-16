@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wj.skyamg-front/static/css/main.67c1bae1.css",
-    "main.js": "/wj.skyamg-front/static/js/main.98e0b7ff.js",
+    "main.js": "/wj.skyamg-front/static/js/main.a56ce4dd.js",
     "static/js/787.7df8f71c.chunk.js": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/차트작성.png": "/wj.skyamg-front/static/media/차트작성.5c89bdd20884eb2eb8b5.png",
     "static/media/3-1.jpg": "/wj.skyamg-front/static/media/3-1.f889ec2c97519d9416c1.jpg",
@@ -32,6 +32,7 @@
     "static/media/DSC07299.png": "/wj.skyamg-front/static/media/DSC07299.592a5df833f9212aa8f5.png",
     "static/media/엑스레이.png": "/wj.skyamg-front/static/media/엑스레이.af7e363f5b283946a8b4.png",
     "static/media/메인03.webp": "/wj.skyamg-front/static/media/메인03.e94f38d60073d2e04501.webp",
+    "static/media/허아영.png": "/wj.skyamg-front/static/media/허아영.29a757cde96deffb72f4.png",
     "static/media/유강연.png": "/wj.skyamg-front/static/media/유강연.852a9b9d00c063aa6808.png",
     "static/media/DSC06699.jpg": "/wj.skyamg-front/static/media/DSC06699.0d4419eb5a978d918ce1.jpg",
     "static/media/263A0102.png": "/wj.skyamg-front/static/media/263A0102.4ca0ee573426d503c971.png",
@@ -150,11 +151,11 @@
     "index.html": "/wj.skyamg-front/index.html",
     "static/media/slick.woff": "/wj.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.67c1bae1.css.map": "/wj.skyamg-front/static/css/main.67c1bae1.css.map",
-    "main.98e0b7ff.js.map": "/wj.skyamg-front/static/js/main.98e0b7ff.js.map",
+    "main.a56ce4dd.js.map": "/wj.skyamg-front/static/js/main.a56ce4dd.js.map",
     "787.7df8f71c.chunk.js.map": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67c1bae1.css",
-    "static/js/main.98e0b7ff.js"
+    "static/js/main.a56ce4dd.js"
   ]
 }
