@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wj.skyamg-front/static/css/main.67c1bae1.css",
-    "main.js": "/wj.skyamg-front/static/js/main.0867da9b.js",
+    "main.js": "/wj.skyamg-front/static/js/main.6c23713c.js",
     "static/js/787.7df8f71c.chunk.js": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/bgVideo2025062502.mp4": "/wj.skyamg-front/static/media/bgVideo2025062502.187d5d96996b99bc892c.mp4",
     "static/media/bgVideo2025062501.mp4": "/wj.skyamg-front/static/media/bgVideo2025062501.c8039a074996ef8eb601.mp4",
@@ -118,6 +118,7 @@
     "static/media/gsimg_neurosurgery.jpg": "/wj.skyamg-front/static/media/gsimg_neurosurgery.27692fd44cb11452b4f0.jpg",
     "static/media/이물.png": "/wj.skyamg-front/static/media/이물.7303e03f20f153747a13.png",
     "static/media/image5.png": "/wj.skyamg-front/static/media/image5.50337cbd038eba0f9890.png",
+    "static/media/wj_2025080801.png": "/wj.skyamg-front/static/media/wj_2025080801.e9b0c2e31fde617dbef3.png",
     "static/media/구월지웰시티푸르지오_인천스카이동물메디컬센터_주차_안내_1.jpeg": "/wj.skyamg-front/static/media/구월지웰시티푸르지오_인천스카이동물메디컬센터_주차_안내_1.aa25717dde1e1bf804b1.jpeg",
     "static/media/surgery_01.jpeg": "/wj.skyamg-front/static/media/surgery_01.3929117c1d4f3b4e33cf.jpeg",
     "static/media/스카이입원실_2.jpeg": "/wj.skyamg-front/static/media/스카이입원실_2.e4df09ead491946b9c50.jpeg",
@@ -153,11 +154,11 @@
     "index.html": "/wj.skyamg-front/index.html",
     "static/media/slick.woff": "/wj.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.67c1bae1.css.map": "/wj.skyamg-front/static/css/main.67c1bae1.css.map",
-    "main.0867da9b.js.map": "/wj.skyamg-front/static/js/main.0867da9b.js.map",
+    "main.6c23713c.js.map": "/wj.skyamg-front/static/js/main.6c23713c.js.map",
     "787.7df8f71c.chunk.js.map": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67c1bae1.css",
-    "static/js/main.0867da9b.js"
+    "static/js/main.6c23713c.js"
   ]
 }
