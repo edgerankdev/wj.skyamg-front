@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wj.skyamg-front/static/css/main.67c1bae1.css",
-    "main.js": "/wj.skyamg-front/static/js/main.aa9cb2c9.js",
+    "main.js": "/wj.skyamg-front/static/js/main.c86e328e.js",
     "static/js/787.7df8f71c.chunk.js": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/bgVideo2025062502.mp4": "/wj.skyamg-front/static/media/bgVideo2025062502.187d5d96996b99bc892c.mp4",
     "static/media/bgVideo2025062501.mp4": "/wj.skyamg-front/static/media/bgVideo2025062501.c8039a074996ef8eb601.mp4",
@@ -93,7 +93,6 @@
     "static/media/이창희.png": "/wj.skyamg-front/static/media/이창희.5dc315105617ca8d6d90.png",
     "static/media/visual_eme.jpeg": "/wj.skyamg-front/static/media/visual_eme.342c38e45feb3af8fe81.jpeg",
     "static/media/gsimg_tumor.jpg": "/wj.skyamg-front/static/media/gsimg_tumor.872d48bcb2ae990b5a5e.jpg",
-    "static/media/wj_2025081201.png": "/wj.skyamg-front/static/media/wj_2025081201.b6bfaa7a4655760377c5.png",
     "static/media/gsimg_gs.jpg": "/wj.skyamg-front/static/media/gsimg_gs.a98e164ba1514f13b90b.jpg",
     "static/media/visual_gs.jpeg": "/wj.skyamg-front/static/media/visual_gs.339a702bec210533bad4.jpeg",
     "static/media/mgimg_breath.jpg": "/wj.skyamg-front/static/media/mgimg_breath.fd6c57cfd31066281a96.jpg",
@@ -134,6 +133,7 @@
     "static/media/진료비안내_원주점.PNG": "/wj.skyamg-front/static/media/진료비안내_원주점.c6af0e0188269e9e026b.PNG",
     "static/media/스카이X-ray.jpeg": "/wj.skyamg-front/static/media/스카이X-ray.2f130c88d34db5822486.jpeg",
     "static/media/스카이유기동물사료.jpeg": "/wj.skyamg-front/static/media/스카이유기동물사료.c8149e6fbd398fbf9b7e.jpeg",
+    "static/media/wj_2025091801.png": "/wj.skyamg-front/static/media/wj_2025091801.89549e7b84ca56b725ab.png",
     "static/media/수원척수MRI_2.jpeg": "/wj.skyamg-front/static/media/수원척수MRI_2.d05c9a2b91ca98d6cb16.jpeg",
     "static/media/스카이MRI_2.jpeg": "/wj.skyamg-front/static/media/스카이MRI_2.50d3e08299606c505b95.jpeg",
     "static/media/스카이초음파실.jpeg": "/wj.skyamg-front/static/media/스카이초음파실.e572fa90f145cf2bf6f3.jpeg",
@@ -153,11 +153,11 @@
     "index.html": "/wj.skyamg-front/index.html",
     "static/media/slick.woff": "/wj.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.67c1bae1.css.map": "/wj.skyamg-front/static/css/main.67c1bae1.css.map",
-    "main.aa9cb2c9.js.map": "/wj.skyamg-front/static/js/main.aa9cb2c9.js.map",
+    "main.c86e328e.js.map": "/wj.skyamg-front/static/js/main.c86e328e.js.map",
     "787.7df8f71c.chunk.js.map": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67c1bae1.css",
-    "static/js/main.aa9cb2c9.js"
+    "static/js/main.c86e328e.js"
   ]
 }
