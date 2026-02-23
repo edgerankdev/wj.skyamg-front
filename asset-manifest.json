@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wj.skyamg-front/static/css/main.67c1bae1.css",
-    "main.js": "/wj.skyamg-front/static/js/main.0ecf4f46.js",
+    "main.js": "/wj.skyamg-front/static/js/main.5b42993f.js",
     "static/js/787.7df8f71c.chunk.js": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/bgVideo2025062502.mp4": "/wj.skyamg-front/static/media/bgVideo2025062502.187d5d96996b99bc892c.mp4",
     "static/media/bgVideo2025062501.mp4": "/wj.skyamg-front/static/media/bgVideo2025062501.c8039a074996ef8eb601.mp4",
@@ -45,6 +45,7 @@
     "static/media/정연후.png": "/wj.skyamg-front/static/media/정연후.6fe020987c9f8c78e6d9.png",
     "static/media/마취장비.png": "/wj.skyamg-front/static/media/마취장비.7f1c6329bf0fb9f2ef1e.png",
     "static/media/01.png": "/wj.skyamg-front/static/media/01.15b86ce2b7d15c27f0ce.png",
+    "static/media/양진호.png": "/wj.skyamg-front/static/media/양진호.b012016086baec33e74e.png",
     "static/media/KakaoTalk_Photo_2023-11-13-11-55-23.png": "/wj.skyamg-front/static/media/KakaoTalk_Photo_2023-11-13-11-55-23.c7ce1bb0ea222b1f99ca.png",
     "static/media/DSC06707.jpg": "/wj.skyamg-front/static/media/DSC06707.f308789f5bd0fd1afbb8.jpg",
     "static/media/김민석.png": "/wj.skyamg-front/static/media/김민석.f371d19e4d6a714c789a.png",
@@ -160,11 +161,11 @@
     "index.html": "/wj.skyamg-front/index.html",
     "static/media/slick.woff": "/wj.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.67c1bae1.css.map": "/wj.skyamg-front/static/css/main.67c1bae1.css.map",
-    "main.0ecf4f46.js.map": "/wj.skyamg-front/static/js/main.0ecf4f46.js.map",
+    "main.5b42993f.js.map": "/wj.skyamg-front/static/js/main.5b42993f.js.map",
     "787.7df8f71c.chunk.js.map": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67c1bae1.css",
-    "static/js/main.0ecf4f46.js"
+    "static/js/main.5b42993f.js"
   ]
 }
