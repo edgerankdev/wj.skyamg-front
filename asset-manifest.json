@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wj.skyamg-front/static/css/main.67c1bae1.css",
-    "main.js": "/wj.skyamg-front/static/js/main.a82715cc.js",
+    "main.js": "/wj.skyamg-front/static/js/main.b2d43200.js",
     "static/js/787.7df8f71c.chunk.js": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/bgVideo2025062502.mp4": "/wj.skyamg-front/static/media/bgVideo2025062502.187d5d96996b99bc892c.mp4",
     "static/media/bgVideo2025062501.mp4": "/wj.skyamg-front/static/media/bgVideo2025062501.c8039a074996ef8eb601.mp4",
@@ -10,7 +10,8 @@
     "static/media/DSC07336.png": "/wj.skyamg-front/static/media/DSC07336.3dbfb32ad4fc6d8edb7d.png",
     "static/media/대화.png": "/wj.skyamg-front/static/media/대화.eec696e295f872f3bffe.png",
     "static/media/입원실애기.png": "/wj.skyamg-front/static/media/입원실애기.0a8cfd7848296e2e6f58.png",
-    "static/media/5-1.jpg": "/wj.skyamg-front/static/media/5-1.21f248b5624c43a42f98.jpg",
+    "static/media/피부호르몬_2026051501.jpg": "/wj.skyamg-front/static/media/피부호르몬_2026051501.7e28efc1349ccef91bdd.jpg",
+    "static/media/5-04.jpg": "/wj.skyamg-front/static/media/5-04.b0c991dcfc4f1df35879.jpg",
     "static/media/DSC07315.png": "/wj.skyamg-front/static/media/DSC07315.b0c991dcfc4f1df35879.png",
     "static/media/veterinarian-examining-cute-dog-on-white-backgroun-2023-11-27-05-36-29-utc.jpg": "/wj.skyamg-front/static/media/veterinarian-examining-cute-dog-on-white-backgroun-2023-11-27-05-36-29-utc.2d2680e0276a021d1c21.jpg",
     "static/media/입원실.png": "/wj.skyamg-front/static/media/입원실.2afb96531a7ea0e55b64.png",
@@ -33,8 +34,12 @@
     "static/media/DSC07299.png": "/wj.skyamg-front/static/media/DSC07299.592a5df833f9212aa8f5.png",
     "static/media/엑스레이.png": "/wj.skyamg-front/static/media/엑스레이.af7e363f5b283946a8b4.png",
     "static/media/메인03.webp": "/wj.skyamg-front/static/media/메인03.e94f38d60073d2e04501.webp",
+    "static/media/피부호르몬.jpg": "/wj.skyamg-front/static/media/피부호르몬.f3740ba220befe9709d7.jpg",
+    "static/media/5-01.jpg": "/wj.skyamg-front/static/media/5-01.ad5f2757a990c7ef1250.jpg",
     "static/media/강채호.png": "/wj.skyamg-front/static/media/강채호.b2ee82753cb63ff217ae.png",
+    "static/media/5-02.jpg": "/wj.skyamg-front/static/media/5-02.6a0b786d1b53989938de.jpg",
     "static/media/허아영.png": "/wj.skyamg-front/static/media/허아영.29a757cde96deffb72f4.png",
+    "static/media/5-03.jpg": "/wj.skyamg-front/static/media/5-03.2e0edf9ae8153de33c76.jpg",
     "static/media/정희윤.png": "/wj.skyamg-front/static/media/정희윤.afcfc47888e580bf2251.png",
     "static/media/조석현.png": "/wj.skyamg-front/static/media/조석현.59cca092917e0ae435cc.png",
     "static/media/왕혜진.png": "/wj.skyamg-front/static/media/왕혜진.a76639dc5fd6e29e81f0.png",
@@ -167,11 +172,11 @@
     "index.html": "/wj.skyamg-front/index.html",
     "static/media/slick.woff": "/wj.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.67c1bae1.css.map": "/wj.skyamg-front/static/css/main.67c1bae1.css.map",
-    "main.a82715cc.js.map": "/wj.skyamg-front/static/js/main.a82715cc.js.map",
+    "main.b2d43200.js.map": "/wj.skyamg-front/static/js/main.b2d43200.js.map",
     "787.7df8f71c.chunk.js.map": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67c1bae1.css",
-    "static/js/main.a82715cc.js"
+    "static/js/main.b2d43200.js"
   ]
 }
