@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wj.skyamg-front/static/css/main.67c1bae1.css",
-    "main.js": "/wj.skyamg-front/static/js/main.b2d43200.js",
+    "main.js": "/wj.skyamg-front/static/js/main.82378b64.js",
     "static/js/787.7df8f71c.chunk.js": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/bgVideo2025062502.mp4": "/wj.skyamg-front/static/media/bgVideo2025062502.187d5d96996b99bc892c.mp4",
     "static/media/bgVideo2025062501.mp4": "/wj.skyamg-front/static/media/bgVideo2025062501.c8039a074996ef8eb601.mp4",
@@ -42,6 +42,7 @@
     "static/media/5-03.jpg": "/wj.skyamg-front/static/media/5-03.2e0edf9ae8153de33c76.jpg",
     "static/media/정희윤.png": "/wj.skyamg-front/static/media/정희윤.afcfc47888e580bf2251.png",
     "static/media/조석현.png": "/wj.skyamg-front/static/media/조석현.59cca092917e0ae435cc.png",
+    "static/media/이은혜.png": "/wj.skyamg-front/static/media/이은혜.0d7eb2d9edfb84459839.png",
     "static/media/왕혜진.png": "/wj.skyamg-front/static/media/왕혜진.a76639dc5fd6e29e81f0.png",
     "static/media/유강연.png": "/wj.skyamg-front/static/media/유강연.852a9b9d00c063aa6808.png",
     "static/media/이유진.png": "/wj.skyamg-front/static/media/이유진.5d0240820303a8561d92.png",
@@ -172,11 +173,11 @@
     "index.html": "/wj.skyamg-front/index.html",
     "static/media/slick.woff": "/wj.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.67c1bae1.css.map": "/wj.skyamg-front/static/css/main.67c1bae1.css.map",
-    "main.b2d43200.js.map": "/wj.skyamg-front/static/js/main.b2d43200.js.map",
+    "main.82378b64.js.map": "/wj.skyamg-front/static/js/main.82378b64.js.map",
     "787.7df8f71c.chunk.js.map": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67c1bae1.css",
-    "static/js/main.b2d43200.js"
+    "static/js/main.82378b64.js"
   ]
 }
