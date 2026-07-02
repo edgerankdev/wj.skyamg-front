@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wj.skyamg-front/static/css/main.67c1bae1.css",
-    "main.js": "/wj.skyamg-front/static/js/main.058b9994.js",
+    "main.js": "/wj.skyamg-front/static/js/main.de012ffe.js",
     "static/js/787.7df8f71c.chunk.js": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js",
     "static/media/bgVideo2025062502.mp4": "/wj.skyamg-front/static/media/bgVideo2025062502.187d5d96996b99bc892c.mp4",
     "static/media/bgVideo2025062501.mp4": "/wj.skyamg-front/static/media/bgVideo2025062501.c8039a074996ef8eb601.mp4",
@@ -13,10 +13,10 @@
     "static/media/입원실애기.png": "/wj.skyamg-front/static/media/입원실애기.0a8cfd7848296e2e6f58.png",
     "static/media/피부호르몬_2026051501.jpg": "/wj.skyamg-front/static/media/피부호르몬_2026051501.7e28efc1349ccef91bdd.jpg",
     "static/media/6-02.jpg": "/wj.skyamg-front/static/media/6-02.75428458b0b563026309.jpg",
-    "static/media/2026070201.png": "/wj.skyamg-front/static/media/2026070201.adb1989bab9f809bffa0.png",
     "static/media/250520_동물병원 (원주)-14.jpg": "/wj.skyamg-front/static/media/250520_동물병원 (원주)-14.adb1989bab9f809bffa0.jpg",
     "static/media/5-04.jpg": "/wj.skyamg-front/static/media/5-04.b0c991dcfc4f1df35879.jpg",
     "static/media/DSC07315.png": "/wj.skyamg-front/static/media/DSC07315.b0c991dcfc4f1df35879.png",
+    "static/media/2026070203.png": "/wj.skyamg-front/static/media/2026070203.471df39590124949278d.png",
     "static/media/veterinarian-examining-cute-dog-on-white-backgroun-2023-11-27-05-36-29-utc.jpg": "/wj.skyamg-front/static/media/veterinarian-examining-cute-dog-on-white-backgroun-2023-11-27-05-36-29-utc.2d2680e0276a021d1c21.jpg",
     "static/media/입원실.png": "/wj.skyamg-front/static/media/입원실.2afb96531a7ea0e55b64.png",
     "static/media/초음파.png": "/wj.skyamg-front/static/media/초음파.ba90d334322c12fcfb22.png",
@@ -186,11 +186,11 @@
     "index.html": "/wj.skyamg-front/index.html",
     "static/media/slick.woff": "/wj.skyamg-front/static/media/slick.295183786cd8a1389865.woff",
     "main.67c1bae1.css.map": "/wj.skyamg-front/static/css/main.67c1bae1.css.map",
-    "main.058b9994.js.map": "/wj.skyamg-front/static/js/main.058b9994.js.map",
+    "main.de012ffe.js.map": "/wj.skyamg-front/static/js/main.de012ffe.js.map",
     "787.7df8f71c.chunk.js.map": "/wj.skyamg-front/static/js/787.7df8f71c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67c1bae1.css",
-    "static/js/main.058b9994.js"
+    "static/js/main.de012ffe.js"
   ]
 }
